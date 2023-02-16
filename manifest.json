@@ -1,7 +1,7 @@
 {
   "name": "Bloqi",
   "short_name": "Bloqi",
-  "start_url": "/",
+  "start_url": "/bloqi-test/",
   "display": "standalone",
   "background_color": "#000",
   "description": "",
